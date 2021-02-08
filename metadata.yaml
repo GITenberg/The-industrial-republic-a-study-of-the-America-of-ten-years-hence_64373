@@ -1,0 +1,32 @@
+_repo: The-industrial-republic-a-study-of-the-America-of-ten-years-hence_64373
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sinclair, Upton
+    aliases:
+    - Sinclair, Upton Beall
+    - Garrison, Frederick
+    - Fitch, Clarke
+    birthdate: 1878
+    deathdate: 1968
+    gutenberg_agent_id: '88'
+    url: http://www.gutenberg.org/2009/agents/88
+    wikipedia: http://en.wikipedia.org/wiki/Upton_Sinclair
+description: ''
+gutenberg_issued: '2021-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64373'
+  lccn: 07018298
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HX'
+- !lcsh 'Socialism -- United States'
+- !lcsh 'United States -- Economic conditions -- 1865-1918'
+- !lcsh 'United States -- Social conditions -- 1865-1918'
+- GITenberg
+title: 'The industrial republic: a study of the America of ten years hence'
+url: http://www.gutenberg.org/ebooks/64373
